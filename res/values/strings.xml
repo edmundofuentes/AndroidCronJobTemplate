@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notifier</string>
+    <string name="alarms_scheduled">Notifier tasks scheduled!</string>
+    <string name="alarms_message">Woah! This is an alarm.</string>
+    <string name="device_code">Device Code</string>
+    <string name="device_key">API Key</string>
+    <string name="device_host">API Host</string>
+    <string name="button_save">Save Settings</string>
+    <string name="title_activity_setup">Notifier Setup</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="save_ok">Successfully saved notifier configuration!</string>
+    <string name="save_error">Error! One of the inputs is invalid.</string>
+    <string name="hint_code">device001</string>
+    <string name="hint_key">mysecretkey</string>
+    <string name="hint_host">http://www.sample.com</string>
+
+</resources>
